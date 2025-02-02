@@ -1,0 +1,17 @@
+title, h1, p, button, div, button {
+    font-weight: bold;
+    text-align: center;
+}
+#ContactInformation {
+    margin:auto;
+}
+div {
+    background-color : rgba(238, 105, 216, 0.322); 
+    width: 100%;
+    border-width:4px;
+    border-style: solid;
+    border-color: rgb(187, 125, 125);
+    border-radius: 25px;
+    padding: 50px;
+    margin: auto; 
+}
